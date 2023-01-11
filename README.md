@@ -1,7 +1,7 @@
 ### Hi there, I'm Vic Mariucha! 👋
 
 - 👩🏼‍💻 Computer Engineering student
-- 🌱 Learning web development and back-end
+- 🌱 Learning web development and back-end(full-stack)
 - 🔎 Looking for my first opportunity as programmer
 - 📫 How to reach me: @vicmariucha (all socials)
 - 😄 Pronouns: she/her
