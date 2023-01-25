@@ -1,11 +1,11 @@
 ### Hi there, I'm Vic Mariucha! 👋
 
-- 👩🏼‍💻 Computer Engineering student
-- 🌱 Learning web development and back-end(full-stack)
-- 🔎 Looking for my first opportunity as programmer
-- 📫 How to reach me: @vicmariucha (all socials)
-- 😄 Pronouns: she/her
-- 🌎 Languages: English/Português
+- 👩🏼‍💻 Computer Engineering student / Estudante de Engenharia da Computação
+- 🌱 Learning web development and back-end(full-stack) / Estudando desenvolvimento web e back-end
+- 🔎 Looking for my first opportunity as programmer / Em busca da minha primeira oportunidade como programadora
+- 📫 How to reach me/Como entrar em contato comigo: @vicmariucha (all socials/todas as redes sociais e gmail)
+- 😄 Pronouns/Pronomes: she/her - ela/dela
+- 🌎 Languages/idiomas: English/Português
 
 <div align="center">
   <a href="https://github.com/vicmariucha">
