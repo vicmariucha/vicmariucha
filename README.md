@@ -2,7 +2,7 @@
 
 - 👩🏼‍💻 Computer Engineering student / Estudante de Engenharia da Computação
 - 🌱 Learning web development and back-end(full-stack) / Estudando desenvolvimento web e back-end
-- 🔎 Looking for my first opportunity as programmer / Em busca da minha primeira oportunidade como programadora
+- 🔎 Software Development Analyst at FIT(Flex Technology Institute) / Analista de Desenvolvimento de Software no FIT(Instituto de Tecnologia da Flex)
 - 📫 How to reach out to me/Como entrar em contato comigo: @vicmariucha (all socials/todas as redes sociais e gmail)
 - 😄 Pronouns/Pronomes: she/her - ela/dela
 - 🌎 Languages/idiomas: English/Português
