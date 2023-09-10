@@ -1,7 +1,7 @@
 ### Hi there, I'm Vic Mariucha! 👋
 
 - 👩🏼‍💻 Computer Engineering student | Estudante de Engenharia da Computação
-- 🌱 Full-stack developer | Desenvolvedora full-stack
+- 🌱 Front-end developer | Desenvolvedora front-end
 - 🔎 Software Development Analyst at FIT (Flex Technology Institute) | Analista de Desenvolvimento de Software no FIT (Flex Instituto de Tecnologia)
 - 📫 How to reach out to me | Como entrar em contato comigo: @vicmariucha (all socials & gmail/todas as redes sociais e gmail)
 - 😄 Pronouns/Pronomes: she/her - ela/dela
