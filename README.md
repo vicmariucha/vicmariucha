@@ -1,7 +1,6 @@
 ### Hi there, I'm Vic Mariucha! 👋
 
 - 👩🏼‍💻 Computer Engineering student | Estudante de Engenharia da Computação
-- 🌱 Front-end developer | Desenvolvedora front-end
 - 🔎 Software developer | Desenvolvedora de software 
 - 📫 How to reach out to me | Como entrar em contato comigo: @vicmariucha (all socials & gmail/todas as redes sociais e gmail)
 - 😄 Pronouns/Pronomes: she/her - ela/dela
