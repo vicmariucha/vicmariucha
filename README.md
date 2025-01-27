@@ -2,7 +2,7 @@
 
 - 👩🏼‍💻 Computer Engineering student | Estudante de Engenharia da Computação
 - 🌱 Front-end developer | Desenvolvedora front-end
-- 🔎 Software Development Analyst at FIT (Flex Technology Institute) | Analista de Desenvolvimento de Software no FIT (Flex Instituto de Tecnologia)
+- 🔎 Software developer | Desenvolvedora de software 
 - 📫 How to reach out to me | Como entrar em contato comigo: @vicmariucha (all socials & gmail/todas as redes sociais e gmail)
 - 😄 Pronouns/Pronomes: she/her - ela/dela
 - 🌎 Languages/idiomas: English/Português
