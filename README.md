@@ -5,8 +5,8 @@
 
 ### 🙋🏼‍♀️ About me / Sobre mim
 - 👩🏼‍💻 Computer engineering student | Estudante de engenharia da computação
+- 📚 Currently in a exchange program in Portugal | Atualmente em um intercâmbio em Portugal
 - 🔎 Software developer | Desenvolvedora de software 
-- 😄 Pronouns/Pronomes: she/her - ela/dela
 - 🌎 Languages/Idiomas: English/Português
 
 <div align="left">
