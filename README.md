@@ -9,7 +9,7 @@
 - 😄 Pronouns/Pronomes: she/her - ela/dela
 - 🌎 Languages/Idiomas: English/Português
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/vicmariucha">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicmariucha&layout=compact&langs_count=7&theme=tokyonight"/>
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=vicmariucha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
