@@ -4,9 +4,8 @@
 <p> 🇧🇷 Apaixonada por educação, ciência, tecnologia e pessoas. Mais a fundo, apaixonada por como a combinação dos quatro pode transformar e evoluir o mundo em que vivemos.</p>
 
 ### 🙋🏼‍♀️ About me / Sobre mim
-- 👩🏼‍💻 Computer engineering student | Estudante de engenharia da computação
-- 📚 Currently in a exchange program in Portugal | Atualmente em um intercâmbio em Portugal
 - 🔎 Software developer | Desenvolvedora de software 
+- 👩🏼‍💻 Computer engineering student | Estudante de engenharia da computação
 - 🌎 Languages/Idiomas: English/Português
 
 <div align="left">
@@ -18,8 +17,6 @@
 ### 💻 Languages e tools / Linguagens e ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="vicmariucha-c" height="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
-  <img align="center" alt="vicmariucha-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="vicmariucha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vicmariucha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vicmariucha-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
@@ -28,6 +25,8 @@
   <img align="center" alt="vicmariucha-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="vicmariucha-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
   <img align="center" alt="vicmariucha-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+    <img align="center" alt="vicmariucha-c" height="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
+  <img align="center" alt="vicmariucha-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
           
 </div>
 
