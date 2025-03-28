@@ -32,7 +32,7 @@
 
 ---
 
-### 🌐 Fell free to talk to me / Bora trocar uma ideia? :)
+### 🌐 Feel free to talk to me / Bora trocar uma ideia? :)
 
 <div> 
   <a href="https://www.linkedin.com/in/victoria-mariucha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
