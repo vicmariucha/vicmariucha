@@ -33,7 +33,7 @@ Acredito que a tecnologia pode (e deve!) ser usada para cuidar de pessoas, do pl
 
 **Ferramentas & Soft Skills:**  
 Git · GitHub · Figma · Jira · APIs REST · VSCode  
-Metodologias ágeis (Scrum/Kanban) · Comunicação · Curiosidade · Toddy (não me curto café ☕)
+Metodologias ágeis (Scrum/Kanban) · Comunicação · Curiosidade · Toddy (não curto café ☕)
 
 ---
 
