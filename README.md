@@ -26,10 +26,17 @@ Acredito que a tecnologia pode (e deve!) ser usada para cuidar de pessoas, do pl
 **Back-end:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+
+**Desenvolvimento mobile:**  
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
 
 **Banco de dados:**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+**Outras linguagens e tecnologias:**  
+![XML](https://img.shields.io/badge/-XML-FF8000?logo=xml&logoColor=white&style=flat)
 
 **Ferramentas & Soft Skills:**  
 Git · GitHub · Figma · Jira · APIs REST · VSCode  
