@@ -5,7 +5,7 @@
 
 ### 🎯 Quem sou eu?
 
-Sou a Victoria, mas pode me chamar de **Vic**! Estudante de **Engenharia da Computação** no 7º período, desenvolvedora de software, entusiasta de tudo que envolve criatividade, código e impacto real no mundo.  
+Sou a Victoria, mas pode me chamar de **Vic**! Estudante de **Engenharia da Computação** no 8º período, desenvolvedora de software, entusiasta de tudo que envolve criatividade, código e impacto real no mundo.  
 
 Já passei por projetos acadêmicos, intercâmbio, times ágeis e momentos em que o código não colaborava (quem nunca?). Hoje, meu foco é **front-end com React, TypeScript e UI/UX**, mas venho explorando o universo do back-end com muito entusiasmo — usando principalmente **Node.js, Python e bancos de dados**.  
 
