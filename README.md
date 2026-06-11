@@ -236,8 +236,8 @@ These are the tools I use to build experiences.
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Agile (Scrum/Kanban)-000000?style=flat-square" alt="Agile Methodologies">
   <img src="https://img.shields.io/badge/REST APIs-F05032?style=flat-square&logo=postman&logoColor=white" alt="APIs REST">
-  <img src="https://img.shields.io/badge/Curiosidade-9b59b6?style=flat-square" alt="Curiosity">
-  <img src="https://img.shields.io/badge/Comunicação-ffcc00?style=flat-square" alt="Communication">
+  <img src="https://img.shields.io/badge/Curiosity-9b59b6?style=flat-square" alt="Curiosity">
+  <img src="https://img.shields.io/badge/Communication-ffcc00?style=flat-square" alt="Communication">
 </p>
 
 ---
